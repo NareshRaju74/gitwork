@@ -5,3 +5,5 @@ Hello this is line four
 
 function sum()
 	printf("print the sum")
+	
+	print("give the result")
