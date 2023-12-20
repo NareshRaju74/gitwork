@@ -3,7 +3,4 @@ Hello this is line two
 Hello this is line three
 Hello this is line four
 
-function sum()
-	printf("print the sum")
-	
-	print("give the result")
+
